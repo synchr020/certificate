@@ -1,2 +1,2 @@
 # certificate
-Here show my certificate
+View my certificates here.
